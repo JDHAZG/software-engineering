@@ -7,4 +7,5 @@
 - 这是主分支protect测试
 - 这是主分支protect添加rule测试
 - 这是主分支protect添加rule测试2
+- 这是dev分支管理测试
 
