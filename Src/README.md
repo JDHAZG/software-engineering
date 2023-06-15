@@ -6,4 +6,5 @@
 - 这是主分支push的测试
 - 这是主分支protect测试
 - 这是主分支protect添加rule测试
+- 这是主分支protect添加rule测试2
 
